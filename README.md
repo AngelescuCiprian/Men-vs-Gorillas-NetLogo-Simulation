@@ -1,4 +1,5 @@
 # Men-vs-Gorillas-NetLogo-Simulation
+# Verry important note!!! Adjust the speed of model to a slower speed , otherwise you won't even notice the fight, because it will happen too fast!
 Overview
 Men vs Gorillas is an interactive and visually distinctive simulation created in NetLogo, where humans and gorillas are placed in a strategic conflict scenario. Each agent (human or gorilla) has its own energy level, behavior, and custom movement, leading to a dynamic system of interaction and elimination.
 
